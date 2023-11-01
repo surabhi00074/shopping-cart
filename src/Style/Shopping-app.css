@@ -1,0 +1,70 @@
+.navbar {
+    height: 80px;
+    background: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+  }
+  
+  .footer {
+    background: #000;
+    color: #fff;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .styledLink {
+    padding: 0rem 2rem;
+    color:#fff;
+  }
+   .homePageStyle{
+      height: 80vh;
+      /* display: flex; */
+      justify-content: center;
+      align-items: center;
+      background: #fff;
+      
+    };
+  .landingImage{
+    height :500px;
+    z-index:0;
+  
+  }
+  
+  .headingCommonStyle{
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 3em;
+    /* font-style: bold; */
+    /* padding-left: 200%; */
+  }
+  
+  .shibu{
+    padding: 2px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: solid;
+    cursor: pointer;
+  }
+  
+  .productlist{
+    display: flex;
+    
+  }
+  
+  .product{
+    padding: 2px;
+    margin: 20px;
+    background-color: #fff;
+  }
+  
+  
+  .product_image {
+    max-width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+  }
